@@ -12,3 +12,6 @@ footer {
     text-align: center;
     border: 15px solid black;
 }
+.foot:hover {
+    opacity: 0.7;
+}
