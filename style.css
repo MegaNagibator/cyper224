@@ -15,3 +15,8 @@ footer {
 .foot:hover {
     opacity: 0.7;
 }
+.header {
+    height: 700px;
+    background-image: url(https://vgtimes.ru/uploads/posts/2022-04/v-minecraft-dobavili-sovershenno-novogo-moba-s-unikalnymi-osobennostyami-no-on-dostupen-ne-vsem-86392.jpg);
+    opacity: 0.7;
+}
