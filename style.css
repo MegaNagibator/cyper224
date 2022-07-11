@@ -86,3 +86,6 @@ footer {
     width: 30%;
     padding: 10px 0px 11px 20px;
     margin-top: 0px;
+    position: absolute;
+    top: 900px;
+    left: 400px;
