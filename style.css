@@ -56,21 +56,21 @@ footer {
 .p1 {
     font-size: 30px;
     text-align: center;
-    margin: 17px 50px 17px 130px;
+    margin: 17px 20px 17px 150px;
     width: 70%;
 }
 .wither {
-    width: 40%;
-    height: 70%;
+    width: 30%;
+    height: 40%;
     padding: 30px;
 }
 .gast {
-    width: 40%;
-    height: 70%;
+    width: 30%;
+    height: 40%;
     padding: 30px;
 }
 .ifrit {
-    width: 40%;
-    height: 70%;
+    width: 30%;
+    height: 40%;
     padding: 30px;
 }
