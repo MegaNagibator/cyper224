@@ -97,5 +97,20 @@ footer {
     margin-top: 0px;
     position: absolute;
     top: 2150px;
-    left: 1050px;
+    left: 1045px;
+}
+.ad {
+    width: 30%;
+    height: 40%;
+    padding: 20px 20px 0px 20px;
+}
+.end {
+    width: 30%;
+    height: 40%;
+    padding: 20px 20px 0px 20px;
+}
+.oko {
+    width: 30%;
+    height: 40%;
+    padding: 20px 20px 0px 20px;
 }
