@@ -89,3 +89,13 @@ footer {
     position: absolute;
     top: 2150px;
     left: 528px;
+}
+.pgast {
+    font-size: 30px;
+    width: 30%;
+    padding: 10px 0px 11px 20px;
+    margin-top: 0px;
+    position: absolute;
+    top: 2150px;
+    left: 1000px;
+}
