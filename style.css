@@ -4,6 +4,7 @@ main {
 footer {
     background-color: rgb(225, 228, 156);
     height: 70px;
+    width: 100%
 }
 .foot {
     color: black;
@@ -33,23 +34,23 @@ footer {
     font-size: 50px;
 }
 .img1 {
-    width: 40%;
-    height: 40%;
+    width: 45%;
+    height: 45%;
     padding: 30px;
 }
 .img2 {
-    width: 40%;
-    height: 40%;
+    width: 45%;
+    height: 45%;
     padding: 30px;
 }
 .img3 {
-    width: 40%;
-    height: 40%;
+    width: 45%;
+    height: 45%;
     padding: 30px;
 }
 .img4 {
-    width: 40%;
-    height: 40%;
+    width: 45%;
+    height: 45%;
     padding: 30px;
 }
 .p1 {
@@ -59,17 +60,17 @@ footer {
     width: 70%;
 }
 .wither {
-    width: 60%;
+    width: 40%;
     height: 70%;
     padding: 30px;
 }
 .gast {
-    width: 60%;
+    width: 40%;
     height: 70%;
     padding: 30px;
 }
 .ifrit {
-    width: 60%;
+    width: 40%;
     height: 70%;
     padding: 30px;
 }
